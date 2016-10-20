@@ -34,3 +34,4 @@ public class cocheJuego
     this.miGrafico.repaint();
   }
 }
+//qqqq

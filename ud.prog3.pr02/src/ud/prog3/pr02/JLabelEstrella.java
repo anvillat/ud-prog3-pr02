@@ -76,3 +76,4 @@ public class JLabelEstrella
     g2.drawImage(img, 0, 0, 40, 40, null);
   }
 }
+//qqqq

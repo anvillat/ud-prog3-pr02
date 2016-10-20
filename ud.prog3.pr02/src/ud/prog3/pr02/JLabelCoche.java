@@ -57,3 +57,4 @@ public class JLabelCoche
     g2.drawImage(img, 0, 0, 100, 100, null);
   }
 }
+//qqqq
